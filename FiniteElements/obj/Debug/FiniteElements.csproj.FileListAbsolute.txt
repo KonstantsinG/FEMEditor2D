@@ -1,0 +1,6 @@
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElements\bin\Debug\FiniteElements.dll
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElements\bin\Debug\FiniteElements.pdb
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElements\obj\Debug\FiniteElements.csproj.AssemblyReference.cache
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElements\obj\Debug\FiniteElements.csproj.CoreCompileInputs.cache
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElements\obj\Debug\FiniteElements.dll
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElements\obj\Debug\FiniteElements.pdb

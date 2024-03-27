@@ -1,0 +1,13 @@
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\bin\Debug\FiniteElementsUI.exe.config
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\bin\Debug\FiniteElementsUI.exe
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\bin\Debug\FiniteElementsUI.pdb
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\obj\Debug\FiniteElementsUI.csproj.AssemblyReference.cache
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\obj\Debug\FiniteElementsUI.Form1.resources
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\obj\Debug\FiniteElementsUI.Properties.Resources.resources
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\obj\Debug\FiniteElementsUI.csproj.GenerateResource.cache
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\obj\Debug\FiniteElementsUI.csproj.CoreCompileInputs.cache
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\obj\Debug\FiniteElementsUI.exe
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\obj\Debug\FiniteElementsUI.pdb
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\bin\Debug\FiniteElements.dll
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\bin\Debug\FiniteElements.pdb
+E:\LabRabs\KSKR\FiniteElementsApp\FiniteElementsUI\obj\Debug\FiniteElementsUI.csproj.CopyComplete
